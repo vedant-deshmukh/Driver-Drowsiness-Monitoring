@@ -29,6 +29,11 @@ This is the home page of the UI. User needs to enter the Registered Username and
 <br><br>
 <img src =  "https://github.com/vedant-deshmukh/Driver-Drowsiness-Monitoring/blob/main/UI/images/3.png"><img>
 
+<h3>Camera Page:</h3>
+ User sees the driver in the live feed and drowsiness monitoring works in the camera feed. If the driver is asleep, the alarm beeps and a red frame appears representing alert.
+<br><br>
+<img src =  "https://github.com/vedant-deshmukh/Driver-Drowsiness-Monitoring/blob/main/UI/images/4.png"><img>
+<img src =  "https://github.com/vedant-deshmukh/Driver-Drowsiness-Monitoring/blob/main/UI/images/5.png"><img>
 
 
 
